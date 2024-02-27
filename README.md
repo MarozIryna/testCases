@@ -4,7 +4,6 @@
 |Nr.|Description:                                                                |Test Type: |Additional Comment (not required):|
 |---|----------------------------------------------------------------------------|-----------|----------------------------------|
 |1. |Check responce when field "from" is filled, field "to" is empty             |Functional |N/A                               | 
-|---|----------------------------------------------------------------------------|-----------|----------------------------------|
 |2. |Check if it is possible choose yesterday date                               |Functional |N/A                               |
 |---|----------------------------------------------------------------------------|-----------|----------------------------------|
 |3. |Check if "black background" runnig well                                     |Functional |N/A                               |
